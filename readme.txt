@@ -1,7 +1,2 @@
-git
-fdfd
-fdf
-fdfdf
-dfdf
-aaa
-bbb
+Git is a distributed version control system.
+Git is free software.
