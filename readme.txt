@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 git is very good.
 git is not very good!!!
 1111111
+22222222
