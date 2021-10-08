@@ -3,3 +3,4 @@ Git is free software.
 Git has a mutable index called stage.
 git is very good.
 git is not very good!!!
+Creating a new branch is quick.
