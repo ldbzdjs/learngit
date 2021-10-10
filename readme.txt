@@ -3,4 +3,4 @@ Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 git tracks changes.
 git TRACKES changes of files.
-inster into a test line.
+inster into a TEST1 line.
